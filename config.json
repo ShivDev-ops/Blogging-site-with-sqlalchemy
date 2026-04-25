@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/codingthunder",
+        "prod_uri":"mysql://root:@localhost/codingthunder",
+        "gmail-user":"shivendra22september@gmail.com",
+        "gmail-password":"SisterIsWorld",
+        "blog-title":" Coding Thunder ",
+        "about-content": "Your about contenet Will Be Here and I'll hole you will like this !!",
+        "blog-subtitle": " KnowledgePedia Of Coding Thunder ",
+        "login_img": "admin.png",
+        "no_of_post": 5,
+        "admin_user": "Shivendra Singh",
+        "admin_password": "Shiv@123",
+        "upload_location":"C:\\Users\\Shweta Singh\\Desktop\\shiv pro\\New folder (2)"
+        
+        
+
+    }
+
+}
